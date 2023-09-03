@@ -46,5 +46,5 @@ To run the analysis notebook, follow these steps:
 
 1. Clone this GitHub repository.
 2. Install the required Python libraries using `pip install -r requirements.txt`.
-3. Open and run the Jupyter Notebook `youtube_data_analysis.ipynb`.
+3. Open and run the Jupyter Notebook `youtube_analysis.ipynb`.
 
