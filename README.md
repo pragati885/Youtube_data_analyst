@@ -31,6 +31,12 @@ This project aims to analyze YouTube data to gain insights into trending videos,
 - The most liked video categories were identified, providing insights into audience preferences.
 - Analysis of likes, dislikes, and comments helped gauge audience engagement levels.
 - Trends in video views and likes were explored over time.
+- The heatmap illustrates the correlation matrix among the variables 'views,' 'likes,' and 'dislikes' from the dataset. Each cell in the heatmap represents   the degree of correlation between two variables, with values closer to 1 indicating a strong positive correlation, values closer to -1 indicating a     
+  strong negative correlation, with values near 0 indicating little to no correlation. In this context:
+
+    The correlation between 'views' and 'likes' signifies how the number of views relates to the number of likes a video receives.
+    The correlation between 'views' and 'dislikes' measures the relationship between the number of views and the number of dislikes.
+    The correlation between 'likes' and 'dislikes' gauges the connection between the number of likes and the number of dislikes.
 
 ## Technologies Used
 
