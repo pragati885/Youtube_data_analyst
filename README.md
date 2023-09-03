@@ -1,4 +1,4 @@
-# YouTube Data Analysis Project(Textcase Analysis)
+# YouTube Data Analysis Project(Text Data Analysis)
 
 ## Overview
 
